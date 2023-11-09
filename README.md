@@ -1,3 +1,3 @@
-#materi untuk aplikasi GIT
-##ditulis oleh Muti
+# materi untuk aplikasi GIT
+## ditulis oleh Muti
 
